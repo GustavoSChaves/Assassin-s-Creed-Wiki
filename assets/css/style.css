@@ -36,3 +36,7 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+.titulo {width: 1000px;
+margin-left: 250px;}
+
+section{text-align: justify;}
